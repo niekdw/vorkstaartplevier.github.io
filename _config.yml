@@ -21,7 +21,7 @@
 title: Vorkstaartplevier
 email: blog@vorkstaartplevier.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Overpeinzingen en persoonlijke dojo om de pen te scherpen.
+  Persoonlijke dojo ter verscherping van pen en geest.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.vorkstaartplevier.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
