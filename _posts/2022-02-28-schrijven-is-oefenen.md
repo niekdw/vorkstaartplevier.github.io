@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Offensief versus defensief"
-date:   2022-02-26 12:20:28 +0100
+title:  "Schrijven is oefenen"
+date:   2022-02-28 12:20:28 +0100
 categories: reflectie
 ---
 
